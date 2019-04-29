@@ -5,5 +5,4 @@ actionLink: /about/
 footer: Copyright © 2019 Mimo Huang
 ---
 
-# Hello VuePress!
-{{ $site.pages }}
+# Hello, I'm Mimo Huang!
